@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Configuración de entorno
+.env
+
+# Archivos de configuración específicos de IDE o editores de texto
+.vscode/
+.idea/
+
+# Archivos de registro y salida
+logs/
+*.log
+npm-debug.log*
